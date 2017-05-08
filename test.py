@@ -1,2 +1,2 @@
 
-print "GIT Test"
+print "GIT Test, hello world"
